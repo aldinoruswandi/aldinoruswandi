@@ -2,9 +2,7 @@
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on a study group to learn Computer Science
-- 📫 Feel free to contact me 
-Email : aldinoruswandi@gmail.com
-LinkedIn : linked.com/aldinoruswandi
+- 📫 You can contact me on my facebook if you have anything to ask or maybe just wondering about something, who knows? :D
 
 <!---
 aldinoruswandi/aldinoruswandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
