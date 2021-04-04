@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aldinoruswandi
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on a study group to learn Computer Science
-- 📫 You can contact me ...
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on a study group to learn Front-end/Web Development
+- 📫 You can contact me at linkedin.com/aldinoruswandi
 
 <!---
 aldinoruswandi/aldinoruswandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
